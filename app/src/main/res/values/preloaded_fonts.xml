@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/adamina</item>
+        <item>@font/antic_slab</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/arvo</item>
+        <item>@font/arvo_bold</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/carter_one</item>
+        <item>@font/ewert</item>
+        <item>@font/faster_one</item>
+        <item>@font/fontdiner_swanky</item>
+        <item>@font/kavoon</item>
+        <item>@font/lily_script_one</item>
+        <item>@font/shojumaru</item>
+    </array>
+</resources>

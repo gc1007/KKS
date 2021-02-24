@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout5"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo"
+    tools:context=".GameOverNormalActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/ImageA"
+            android:layout_width="match_parent"
+            android:layout_height="497dp"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            android:contentDescription="@string/ImageA"
+            app:srcCompat="@drawable/tempoc" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/score"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="82dp"
+                android:layout_marginLeft="82dp"
+                android:layout_marginEnd="86dp"
+                android:layout_marginRight="86dp"
+                android:layout_marginBottom="-7dp"
+                android:fontFamily="@font/architects_daughter"
+                android:gravity="center_horizontal|center"
+                android:text="@string/score"
+                android:textAlignment="center"
+                android:textSize="50sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/bestscore"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.486"
+                app:layout_constraintStart_toStartOf="parent"
+                tools:text="@string/score" />
+
+            <TextView
+                android:id="@+id/bestscore"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginEnd="13dp"
+                android:layout_marginRight="13dp"
+                android:layout_marginBottom="37dp"
+                android:fontFamily="@font/architects_daughter"
+                android:gravity="center_horizontal"
+                android:text="@string/bestscore"
+                android:textAlignment="center"
+                android:textSize="45sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@+id/bt_tenta_denovo"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+
+            <Button
+                android:id="@+id/bt_tenta_denovo"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginStart="81dp"
+                android:layout_marginLeft="81dp"
+                android:layout_marginEnd="83dp"
+                android:layout_marginRight="83dp"
+                android:layout_marginBottom="18dp"
+                android:background="@drawable/button_shape3"
+                android:fontFamily="@font/antic_slab"
+                android:onClick="tentarDeNovo"
+                android:text="@string/bt_tentar_denovo"
+                android:textColor="@drawable/text_final"
+                android:textSize="40sp"
+                android:textStyle="bold"
+                android:visibility="visible"
+                app:layout_constraintBottom_toTopOf="@+id/bt_inicio"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                tools:text="@string/bt_tentar_denovo" />
+
+            <Button
+                android:id="@+id/bt_inicio"
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:layout_marginStart="92dp"
+                android:layout_marginEnd="92dp"
+                android:layout_marginBottom="41dp"
+                android:background="@drawable/button_shape3"
+                android:fontFamily="@font/antic_slab"
+                android:onClick="goToInicio"
+                android:text="@string/bt_inicio"
+                android:textColor="@drawable/text_final"
+                android:textSize="40sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

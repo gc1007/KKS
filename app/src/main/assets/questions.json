@@ -1,0 +1,500 @@
+{"questions" : [
+  {
+    "pergunta" : "Qual destas cores não faz parte da bandeira de São Tomé e Príncipe?", "answer" : "Azul", "op1" : "Verde", "op2" : "Preto", "op3" : "Amarelo"
+  },
+  {
+    "pergunta" : "Normalmente o cantor João Seria é conhecido por?", "answer" : "General", "op1" : "Coronel", "op2" : "Comandante", "op3" : "Major"
+  },
+  {
+    "pergunta" : "Quem escreveu o livro 'Nome de Guerra'?", "answer" : "Almada Negreiro", "op1" : "Olinda Beja", "op2" : "Carlos Bené", "op3" : "Malapetéma"
+  },
+  {
+    "pergunta" : "Qual o nome do filme que tem a participação do ator 'Buté'?", "answer" : "Fruta do Equador", "op1" : "Fruta de Buté", "op2" : "Morte da Avó", "op3" : "Fruta Amaldiçoada"
+  },
+  {
+    "pergunta" : "Complete o provérbio: ola quá cá da ni uê_____________", "answer" : "lixi cá côlê aua", "op1" : "ê cá quê ni son", "op2" : "quá cá flementá", "op3" : "ê cá bilá culu"
+  },
+  {
+    "pergunta" : "A marcha feita todos os anos no dia 3 de fevereiro é em homenagem a quem?", "answer" : "Aos marteres do massacre", "op1" : "As florestas", "op2" : "As crianças", "op3" : "As mães solteiras"
+  },
+  {
+    "pergunta" : "Em que ano a ilha de São Tomé foi descoberta?", "answer" : "1470", "op1" : "1500", "op2" : "1975", "op3" : "1570"
+  },
+  {
+    "pergunta" : "Em que ano a ilha do Príncipe foi descoberta?", "answer" : "1471", "op1" : "1473", "op2" : "1985", "op3" : "1671"
+  },
+  {
+    "pergunta" : "O que se comemora no dia 12 de Julho?", "answer" : "Dia da Independência", "op1" : "Dia do Santo", "op2" : "Dia dos Mortos", "op3" : "Dia da Democracia"
+  },
+  {
+    "pergunta" : "O que gerou o massacre de 'Batepá' em 1953?", "answer" : "Assassinato do alferes Jorge Lopes", "op1" : "Golpe de estado", "op2" : "Roubo de Cacau", "op3" : "Invasão dos Holandeses"
+  },
+  {
+    "pergunta" : "Quem descobriu as ilhas de São Tomé e Príncipe?", "answer" : "João de Santarém e Pedro Escobar", "op1" : "Diogo Cão", "op2" : "Pedro Alvares e Gil Eanes", "op3" : "Cristóvão Colombo"
+  },
+  {
+    "pergunta" : "Quem liderou a 'Revolta dos Angolares'?", "answer" : "Rei Amador", "op1" : "Yon Gato", "op2" : "Os Franceses", "op3" : "Miguel Trovoada"
+  },
+  {
+    "pergunta" : "Quem escreveu o hino Nacional?", "answer" : "Alda Espírito Santo", "op1" : "Kalú Mendes", "op2" : "Camilo Domingos", "op3" : "Olinda Beja"
+  },
+  {
+    "pergunta" : "Como se chama o hino Nacional?", "answer" : "Independência Total", "op1" : "Glorioso Canto do Povo", "op2" : "Guerrilheiros", "op3" : "Filhos das Ilhas"
+  },
+  {
+    "pergunta" : "Quem não foi presidente de São Tomé e Príncipe?", "answer" : "Patrice Trovoada", "op1" : "Fradique de Menezes", "op2" : "Evaristo Carvalho", "op3" : "Manuel Pinto da Costa"
+  },
+  {
+    "pergunta" : "Quem foi o primeiro presidente de São Tomé e Príncipe?", "answer" : "Manuel Pinto da Costa", "op1" : "Jorge Bom Jesus", "op2" : "Rafael Branco", "op3" : "Miguel Trovoada"
+  },
+  {
+    "pergunta" : "Em que dia a ilha do Príncipe foi descoberta?", "answer" : "17 de Janeiro", "op1" : "17 de Maio", "op2" : "6 de Setembro", "op3" : "1 de Junho"
+  },
+  {
+    "pergunta" : "Em que dia a ilha de São Tomé foi descoberta?", "answer" : "21 de Dezembro", "op1" : "22 de Maio", "op2" : "14 de Fevereiro", "op3" : "25 de Abril"
+  },
+  {
+    "pergunta" : "Em que ano o dia 4 de Janeiro tornou-se feriado?", "answer" : "2005", "op1" : "1978", "op2" : "2001", "op3" : "1650"
+  },
+  {
+    "pergunta" : "Em que ano São Tomé e Príncipe tornou-se independente?", "answer" : "1975", "op1" : "1965", "op2" : "1957", "op3" : "1985"
+  },
+  {
+    "pergunta" : "Em que ano surgiu o MLSTP?", "answer" : "1972", "op1" : "1900", "op2" : "1940", "op3" : "1953"
+  },
+  {
+    "pergunta" : "Em que ano foi feita a primeira eleição multipartiária São Tomé e Príncipe?", "answer" : "1991", "op1" : "1992", "op2" : "1974", "op3" : "1975"
+  },
+  {
+    "pergunta" : "Em que ano é instituído um governo local na ilha do Príncipe?", "answer" : "1995", "op1" : "1976", "op2" : "1960", "op3" : "1980"
+  },
+  {
+    "pergunta" : "Quem fotografou o eclipse solar na ilha do Príncipe em 1919?", "answer" : "Arthur Eddington", "op1" : "Albert Einstein", "op2" : "Thomas Edson", "op3" : "José Cassandra"
+  },
+  {
+    "pergunta" : "A ilha de Santo António foi rebatizada para Príncipe em homenagem a quem?", "answer" : "D.João III", "op1" : "D.João I", "op2" : "D.Carloto", "op3" : "D.Afonso Henrique"
+  },
+  {
+    "pergunta" : "Em que período STP se torna o maior exportador de cacau e café do mundo?", "answer" : "1895-1905", "op1" : "1766-1880", "op2" : "1990-2000", "op3" : "1970-1977"
+  },
+  {
+    "pergunta" : "São Tomé e Príncipe torna-se maior exportador de que produto no século XVI?", "answer" : "Açúcar", "op1" : "Cacau", "op2" : "Pimenta", "op3" : "Café"
+  },
+  {
+    "pergunta" : "Aonde estão situadas as ilhas de São Tomé e Príncipe?", "answer" : "Golfo da Guiné", "op1" : "Caraíbas", "op2" : "Ásia", "op3" : "África Austral"
+  },
+  {
+    "pergunta" : "Que oceano banha as ilhas de São Tomé e Príncipe?", "answer" : "Atlântico", "op1" : "Pacífico", "op2" : "Índico", "op3" : "Glacial Ártico"
+  },
+  {
+    "pergunta" : "Qual é a área total de São Tomé e Príncipe?", "answer" : "1001 km2", "op1" : "2000 Km2", "op2" : "5500 Km2", "op3" : "100 Km2"
+  },
+  {
+    "pergunta" : "Qual é a área da ilha do Príncipe?", "answer" : "142km2", "op1" : "200 Km2", "op2" : "300 Km2", "op3" : "400 Km2"
+  },
+  {
+    "pergunta" : "Qual destes ilheus não pertence São Tomé e Príncipe?", "answer" : "Ilhéu Bonfim", "op1" : "Ilhéu das Cabras", "op2" : "Boné do Joker", "op3" : "Ilhéu das Rolas"
+  },
+  {
+    "pergunta" : "Quanto mede o pico de São Tomé?", "answer" : "2024m", "op1" : "3000m", "op2" : "400m", "op3" : "2025m"
+  },
+  {
+    "pergunta" : "Qual é o clima característico de São Tomé e Príncipe?", "answer" : "Tropical Húmido", "op1" : "Desértico", "op2" : "Temperado", "op3" : "Equatorial"
+  },
+  {
+    "pergunta" : "Em quantos distritos está divido São Tomé e Príncipe?", "answer" : "7", "op1" : "5", "op2" : "6", "op3" : "8"
+  },
+  {
+    "pergunta" : "Qual é a capital de São Tomé e Príncipe?", "answer" : "São Tomé", "op1" : "Trindade", "op2" : "Santana", "op3" : "Sundi"
+  },
+  {
+    "pergunta" : "Qual é o distrito mais populoso de São Tomé e Príncipe?", "answer" : "Água Grande", "op1" : "Mé-Zochi", "op2" : "Cantagalo", "op3" : "Caué"
+  },
+  {
+    "pergunta" : "Qual é o maior distrito de São Tomé e Príncipe?", "answer" : "Caué", "op1" : "Água Grande", "op2" : "Lembá", "op3" : "Lobata"
+  },
+  {
+    "pergunta" : "Qual distrito não faz fronteira com o distrito de Lembá?", "answer" : "Água Grande", "op1" : "Caué", "op2" : "Mé-Zochi", "op3" : "Lobata"
+  },
+  {
+    "pergunta" : "A cidade de Santa Catarina pertence que distrito?", "answer" : "Lembá", "op1" : "Lobata", "op2" : "Cantagalo", "op3" : "Região Autónoma do Príncipe"
+  },
+  {
+    "pergunta" : "A vila de Pantufo pertence que distrito?", "answer" : "Água Grande", "op1" : "Lobata", "op2" : "Caué", "op3" : "Cantagalo"
+  },
+  {
+    "pergunta" : "As ilhas de São Tomé e Príncipe são de que tipo?", "answer" : "Vulcânicas", "op1" : "Continentais", "op2" : "Fluviais", "op3" : "Oceânicas"
+  },
+  {
+    "pergunta" : "Quantas estações climáticas existem em São Tomé e Príncipe?", "answer" : "2", "op1" : "3", "op2" : "4", "op3" : "1"
+  },
+  {
+    "pergunta" : "Qual é o maior rio de São Tomé e Príncipe?", "answer" : "Ió Grande", "op1" : "Contador", "op2" : "Água Grande", "op3" : "Manuel Jorge"
+  },
+  {
+    "pergunta" : "Como se chama a estação mais seca de São Tomé e Príncipe?", "answer" : "Gravana", "op1" : "Gravanito", "op2" : "Verão", "op3" : "Primavera"
+  },
+  {
+    "pergunta" : "Qual é a capital do distrito de Lobata?", "answer" : "Guadalupe", "op1" : "Neves", "op2" : "Monte Café", "op3" : "São João dos Angolares"
+  },
+  {
+    "pergunta" : "Na obra tchiloli quem é o assassino de Valdevinos?", "answer" : "D.Carloto", "op1" : "Roldão", "op2" : "Marquês de Mântua", "op3" : "Bertrand"
+  },
+  {
+    "pergunta" : "Na obra tchiloli como descobriram o assassino de Valdevinos?", "answer" : "Carta", "op1" : "Flagrante", "op2" : "Rendição", "op3" : "Traição"
+  },
+  {
+    "pergunta" : "Na obra tchiloli porquê D.Carloto assassina seu amigo?", "answer" : "Para ficar com sua esposa", "op1" : "Para ficar rico", "op2" : "Para ser reconhecido pelo pai", "op3" : "Para magoar o Marquês"
+  },
+  {
+    "pergunta" : "Que nome se dá a festa onde se apresenta o 'Auto de Floripes'?", "answer" : "São Lourenço", "op1" : "Santo António", "op2" : "São Benedito", "op3" : "Santa Floripes"
+  },
+  {
+    "pergunta" : "O que retrata o 'Auto de Floripes'?", "answer" : "Enfrentamento entre Cristão e Mouros", "op1" : "A invasão do Espanhois", "op2" : "Traição de Valdevinos", "op3" : "Massacre de 53"
+  },
+  {
+    "pergunta" : "O que retrata o 'Tchiloli?", "answer" : "A tragédia do Marquês de Mântua", "op1" : "A desordem no país", "op2" : "O Roubo de Roldão", "op3" : "A partida do Pagem"
+  },
+  {
+    "pergunta" : "Como se chama a dança de STP que originalmente se dança a volta da fogueira?", "answer" : "Puita", "op1" : "Sôcopé", "op2" : "Tafua", "op3" : "Guipá"
+  },
+  {
+    "pergunta" : "Como se chama a manifestação cultural que procede o carnaval em STP?", "answer" : "Stleva", "op1" : "Djambi", "op2" : "Cantoria", "op3" : "Ramadã"
+  },
+  {
+    "pergunta" : "Localmente como se chama a quarta feira de cinzas?", "answer" : "Bocado", "op1" : "Cinzento", "op2" : "Trocado", "op3" : "Colherada"
+  },
+  {
+    "pergunta" : "Segundo a cultura de STP que prato se costuma comer na quarta feira de cinzas?", "answer" : "Calulú", "op1" : "Feijoada", "op2" : "Guisado", "op3" : "Kizacá"
+  },
+  {
+    "pergunta" : "Qual é a dança mais popular da ilha do Príncipe?", "answer" : "Decha", "op1" : "Txabeta", "op2" : "Puita", "op3" : "Tafua"
+  },
+  {
+    "pergunta" : "Como se chama o acompanhamento do prato Calulú?", "answer" : "Angú", "op1" : "Bombom", "op2" : "Cufungo", "op3" : "Milho"
+  },
+  {
+    "pergunta" : "O que significa sôcopé?", "answer" : "Só com o pé", "op1" : "Ponta dos pés", "op2" : "Pontapé", "op3" : "Bate pé"
+  },
+  {
+    "pergunta" : "Qual é a língua oficial de São Tomé e Príncipe?", "answer" : "Português", "op1" : "Espanhol", "op2" : "Francês", "op3" : "Inglês"
+  },
+  {
+    "pergunta" : "Quantos crioulos existem em São Tomé e Príncipe?", "answer" : "4", "op1" : "5", "op2" : "3", "op3" : "2"
+  },
+  {
+    "pergunta" : "Como se chama o crioulo falado na ilha do Príncipe?", "answer" : "Lunguié", "op1" : "Anguéné", "op2" : "Fôrro", "op3" : "Quimbundo"
+  },
+  {
+    "pergunta" : "No crioulo Fôrro como se diz a palavra 'passar'?", "answer" : "Valá", "op1" : "Passá", "op2" : "Passiá", "op3" : "Andá"
+  },
+  {
+    "pergunta" : "No crioulo Lunguié como se diz 'menino pequeno'?", "answer" : "Mino quêtê", "op1" : "Anzu", "op2" : "Móçu", "op3" : "Maxibin"
+  },
+  {
+    "pergunta" : "No crioulo Anguéné(N'golá) o que significa a palavra 'têtêmbu'?", "answer" : "Estrela", "op1" : "Pássaro", "op2" : "Curioso", "op3" : "Ladrão"
+  },
+  {
+    "pergunta" : "Complete o provérbio tudu caçô de téma__________", "answer" : "cá molê cu olha cotadu", "op1" : "cá padissê", "op2" : "cá molê ni liba d'auá", "op3" : "na cá bê motxi mén dê"
+  },
+  {
+    "pergunta" : "Quais destes ingredientes não entra na cofecção do 'Molho no Fogo'?", "answer" : "Safú", "op1" : "Azeite de Palma", "op2" : "Peixe", "op3" : "Maquêquê"
+  },
+  {
+    "pergunta" : "O termo 'baiá' refere-se a oquê?", "answer" : "Feitiço", "op1" : "Roubo", "op2" : "Sorte", "op3" : "Inveja"
+  },
+  {
+    "pergunta" : "Qual o dia nacional das forças armadas em STP?", "answer" : "6 de Setembro", "op1" : "25 de Maio", "op2" : "5 de Junho", "op3" : "1 de Agosto"
+  },
+  {
+    "pergunta" : "Normalmente em STP o que se faz quando alguém morre?", "answer" : "Nojo", "op1" : "Festa", "op2" : "Passeio", "op3" : "Festival"
+  },
+  {
+    "pergunta" : "Que nome é dado ao ritual usado para invocar os mortos em STP?", "answer" : "Djambi", "op1" : "Batucada", "op2" : "Reza", "op3" : "Tamboril"
+  },
+  {
+    "pergunta" : "Qual o regime político de São Tomé e Príncipe?", "answer" : "Democrático Semi-Presidencialista", "op1" : "Socialista", "op2" : "Ditadura", "op3" : "Monarquia"
+  },
+  {
+    "pergunta" : "Qual destes não faz parte dos orgãos de soberania de STP?", "answer" : "ONGs", "op1" : "Presidente da República", "op2" : "Governo", "op3" : "Tribunais"
+  },
+  {
+    "pergunta" : "Quem foi o presidente de São Tomé e Príncipe em 2008?", "answer" : "Fradique de Menezes", "op1" : "Miguel Trovoada", "op2" : "Evaristo Carvalho", "op3" : "Manuel Pinto da Costa"
+  },
+  {
+    "pergunta" : "Quem exerce o poder executivo em São Tomé e Príncipe?", "answer" : "Governo", "op1" : "Presidente da República", "op2" : "Tribunais", "op3" : "Assembleia"
+  },
+  {
+    "pergunta" : "Aonde se situa a Assembleia Nacional de São Tomé e Príncipe?", "answer" : "Palácio dos Congressos", "op1" : "Biblioteca Nacional", "op2" : "Casa da Cultura", "op3" : "Museu Nacional"
+  },
+  {
+    "pergunta" : "Que grupo canta a música 'Placéla'?", "answer" : "Os Úntués", "op1" : "Sangazuza", "op2" : "África Negra", "op3" : "Rock Som"
+  },
+  {
+    "pergunta" : "Quem canta a música 'Amôle Maxibin'?", "answer" : "Nilo Jalego", "op1" : "Gappa", "op2" : "Lindex", "op3" : "Pêpê Lima"
+  },
+  {
+    "pergunta" : "O cantor Garrido fez parte de que grupo musical?", "answer" : "Os Úntués", "op1" : "Elenco da BG Pro", "op2" : "Rock Som", "op3" : "Tindó"
+  },
+  {
+    "pergunta" : "Qual foi a música de maior sucesso do cantor Mister Page no ano de 2010?", "answer" : "Quem é Você?", "op1" : "Glatu di Mundu", "op2" : "Fim do Ano", "op3" : "Solidão"
+  },
+  {
+    "pergunta" : "De onde é o grupo Bulauê Pastelim?", "answer" : "Uba Cabra", "op1" : "Santana", "op2" : "Neves", "op3" : "Sta Catarina"
+  },
+  {
+    "pergunta" : "Que grupo canta a música 'Sotxi'?", "answer" : "Os Quibanza", "op1" : "Os Úntués", "op2" : "Sangazuza", "op3" : "Mão no Chão"
+  },
+  {
+    "pergunta" : "Qual destas músicas não pertence ao cantor Felício Mendes?", "answer" : "Madumé", "op1" : "A Roda dos Sete", "op2" : "Seja Eco", "op3" : "Yé Mé"
+  },
+  {
+    "pergunta" : "Em que ano faleceu o cantor Camilo Domingos?", "answer" : "2005", "op1" : "2002", "op2" : "2004", "op3" : "2007"
+  },
+  {
+    "pergunta" : "Quem é o intérprete da música Cacau?", "answer" : "Sum Alvarino", "op1" : "Kalú Mendes", "op2" : "Alcides Brito", "op3" : "Xinha"
+  },
+  {
+    "pergunta" : "Que grupo não faz parte do Elenco da BG Pro?", "answer" : "Strong Boyz", "op1" : "Family Xtrava", "op2" : "AK-40", "op3" : "GMC"
+  },
+  {
+    "pergunta" : "Como se chama o rapper que lançou o álbum intitulado 'Banho Público'?", "answer" : "PekaGboom", "op1" : "Ag Flayzer", "op2" : "Quixote One", "op3" : "Jedy Blindado"
+  },
+  {
+    "pergunta" : "A que música pertence a frase 'lóssa na tê bé fa'?", "answer" : "Bom d'ja", "op1" : "A Roça", "op2" : "São Tomé", "op3" : "Yé Mé"
+  },
+  {
+    "pergunta" : "Qual destas músicas não pertence ao cantor Pêpê Lima?", "answer" : "Aninha", "op1" : "Sun Dentxi Bétu", "op2" : "Mata Pó", "op3" : "Povo de Flegueja"
+  },
+  {
+    "pergunta" : "Qual é o maior edfício de ensino de São Tomé e Príncipe?", "answer" : "Liceu Nacional", "op1" : "Maria Manuel Margarido", "op2" : "Atanásio Gomes", "op3" : "Dona Maria de Jesus"
+  },
+  {
+    "pergunta" : "Em que ano faleceu a poetisa Alda Espírito Santo?", "answer" : "2010", "op1" : "2008", "op2" : "2001", "op3" : "1999"
+  },
+  {
+    "pergunta" : "Qual é a moeda de São Tomé e Príncipe?", "answer" : "Dobra", "op1" : "Dolar", "op2" : "Kwanza", "op3" : "Euro"
+  },
+  {
+    "pergunta" : "Quanto equivale 1 euro em Dobras?", "answer" : "24.5dbs", "op1" : "22dbs", "op2" : "25dbs", "op3" : "30dbs"
+  },
+  {
+    "pergunta" : "Qual é a equipa com mais títulos no campeonato nacional?", "answer" : "Sporting Praia Cruz", "op1" : "Vitória FC", "op2" : "UDRA", "op3" : " 6 de Setembro"
+  },
+  {
+    "pergunta" : "Qual é o formato da parte vermelha da bandeira de STP?", "answer" : "Triângular", "op1" : "Circular", "op2" : "Rectângular", "op3" : "Pentagonal"
+  },
+  {
+    "pergunta" : "Normalmente os pescadores de STP pescam de?", "answer" : "Canoa", "op1" : "Bote", "op2" : "Navio", "op3" : "Bicicleta"
+  },
+  {
+    "pergunta" : "Como se chama a biblioteca nacional de STP?", "answer" : "Francisco José Tenreirro", "op1" : "Biblioteca Nacional", "op2" : "Almada Negreiro", "op3" : "Xanana Gusmão"
+  },
+  {
+    "pergunta" : "Qual destas espécies não é original de STP?", "answer" : "Lagaia", "op1" : "Galinhola", "op2" : "Anjolô", "op3" : "Picanço"
+  },
+  {
+    "pergunta" : "Qual é a cidade industrial de STP?", "answer" : "Neves", "op1" : "Sta Catarina", "op2" : "Pantufu", "op3" : "Guadalupe"
+  },
+  {
+    "pergunta" : "Qual é o nome do dono da fábrica Mé-Zochi?", "answer" : "Célio Santiago", "op1" : "Rafael Branco", "op2" : "Delfim Neves", "op3" : "Barroso"
+  },
+  {
+    "pergunta" : "Como se chama a cerveja de STP?", "answer" : "Rosema", "op1" : "Nacional", "op2" : "Criola", "op3" : "Jumbu"
+  },
+  {
+    "pergunta" : "Qual o nome do peixe que se tem por hábito comer grelhado na gravana?", "answer" : "Quáquá", "op1" : "Maspombo", "op2" : "Bica", "op3" : "Andala"
+  },
+  {
+    "pergunta" : "Como se chama o espaço em frente ao mercado municipal(mercado velho)?", "answer" : "Jardim do Pensamento", "op1" : "Parque Popular", "op2" : "Espaço Cacau", "op3" : "Parque dos Motoqueiros"
+  },
+  {
+    "pergunta" : "O que significa PCD?", "answer" : "Partido de Convergência Democrática", "op1" : "Plano de Construção e Desenvolvimento", "op2" : "Partido Comunista para Desenvolvimento", "op3" : "Partido de Coligação Democrática"
+  },
+  {
+    "pergunta" : "Quando que a igreja da Sé foi construída?", "answer" : "sec. XVI", "op1" : "sec. XV", "op2" : "sec. XX", "op3" : "sec. XIV"
+  },
+  {
+    "pergunta" : "Em que ano surgiu a CST?", "answer" : "1989", "op1" : "1980", "op2" : "1900", "op3" : "1895"
+  },
+  {
+    "pergunta" : "O que significa CST?", "answer" : "Compainha Santomense de Telecomunicações", "op1" : "Casa Santomense", "op2" : "Coral Santomense", "op3" : "Comunidade Santomense Tradicional"
+  },
+  {
+    "pergunta" : "Qual é o nome da agência nacional de viagens?", "answer" : "STP Airways", "op1" : "TAP", "op2" : "TAAG", "op3" : "STP Atlantics"
+  },
+  {
+    "pergunta" : "Qual é o nome do aeroporto de STP?", "answer" : "Aeroporto Internacional de STP", "op1" : "Aeroporto Miguel Trovoada", "op2" : "Aeroporto Alda Espírito Santo", "op3" : "Aeroporto Santola"
+  },
+  {
+    "pergunta" : "Qual é a distância  entre a cidade capital e a cidade da Trindade?", "answer" : "7 Km", "op1" : "70 Km", "op2" : "10 Km", "op3" : "5 Km"
+  },
+  {
+    "pergunta" : "Quando é que a ilha do Príncipe se tornou reserva da biosfera mundial pela UNESCO?", "answer" : "11 de Julho de 2012", "op1" : "11 de Janeiro de 2009", "op2" : "11 de Agosto de 2004", "op3" : "11 de Fevereiro de 2010"
+  },
+  {
+    "pergunta" : "Qual é o nome do maior hospital de STP?", "answer" : "Hospital Dr. Ayres de Menezes", "op1" : "Hospital Central de STP", "op2" : "Hospital do Príncipe", "op3" : "Nenhuma das opções"
+  },
+  {
+    "pergunta" : "Quem é o organizador executivo da STP Music Awards(STPMA)?", "answer" : "Organizer Eventos e Grupo Mener", "op1" : "UNITEL", "op2" : "Human Fashion", "op3" : "CST"
+  },
+  {
+    "pergunta" : "Qual é o nome da maior baia de  de STP?", "answer" : "Baía de Ana Chaves", "op1" : "Baía de São Pedro", "op2" : "Baía Lembá", "op3" : "Baía Furtado"
+  },
+  {
+    "pergunta" : "O que significa TVS?", "answer" : "Televisão Santomense", "op1" : "Transportadora de Vinhos Santomense", "op2" : "Tecnologia Visual Santomense", "op3" : "Tendas Vasco Silva"
+  },
+  {
+    "pergunta" : "O que significa RNSTP?", "answer" : "Rádio Nacional de STP", "op1" : "Rota Nacional de STP", "op2" : "Rio Natural de STP", "op3" : "Rua Negra de STP"
+  },
+  {
+    "pergunta" : "Em que ano foi criada a TVS?", "answer" : "1986", "op1" : "1980", "op2" : "1974", "op3" : "1990"
+  },
+  {
+    "pergunta" : "O que significa USTP?", "answer" : "Universsidade de STP", "op1" : "União de STP", "op2" : "Urologistas de STP", "op3" : "Nenhuma das opções"
+  },
+  {
+    "pergunta" : "Em que ano foi fundada a USTP?", "answer" : "2014", "op1" : "1996", "op2" : "2010", "op3" : "2011"
+  },
+  {
+    "pergunta" : "Quantas universidades públicas existem em STP?", "answer" : "1", "op1" : "5", "op2" : "4", "op3" : "2"
+  },
+  {
+    "pergunta" : "Quem colonizou STP?", "answer" : "Portugueses", "op1" : "Espanhois", "op2" : "Holandeses", "op3" : "Angolanos"
+  },
+  {
+    "pergunta" : "O que significa EPSTP?", "answer" : "Escola Portuguesa de STP", "op1" : "Estação Pública de STP", "op2" : "Escola Pública de STP", "op3" : "Escola Policial de STP"
+  },
+  {
+    "pergunta" : "Como se chama o Liceu da vila do Conde?", "answer" : "Sum Mé Xinhô", "op1" : "Liceu do Conde", "op2" : "Sum Xinhô", "op3" : "Liceu Lobata"
+  },
+  {
+    "pergunta" : "Em que ano enauguraram o liceu Maria Manuela Margarido?", "answer" : "2012", "op1" : "2011", "op2" : "2010", "op3" : "2020"
+  },
+  {
+    "pergunta" : "O que significa ENAPORT?", "answer" : "Empresa Nacional de Administração de Portos", "op1" : "Empresa Nacional Analítica de Portos", "op2" : "Estação Nacional de Aviação e Portos", "op3" : "Nenhuma da opções"
+  },
+  {
+    "pergunta" : "O que significa EMAE?", "answer" : "Empresa de Água e Electricidade", "op1" : "Emacipação Escolar", "op2" : "Empresa de Aeroportos", "op3" : "Nenhuma das opções"
+  },
+  {
+    "pergunta" : "Em que ano criaram a EMAE?", "answer" : "Nenhuma das opções", "op1" : "2005", "op2" : "1900", "op3" : "1450"
+  },
+  {
+    "pergunta" : "Qual é a capital da ilha do Príncipe?", "answer" : "Santo António", "op1" : "Sundi", "op2" : "Montealegre", "op3" : "Lapa"
+  },
+  {
+    "pergunta" : "Quantos deputados tem a Assembleia Nacional?", "answer" : "55 Deputados", "op1" : "33 Deputados", "op2" : "21 Deputados", "op3" : "50 Deputados"
+  },
+  {
+    "pergunta" : "Quem foi o presidente da câmara distrital de Água Grande em 2017?", "answer" : "Ekneide Santos", "op1" : "Olinto Daio", "op2" : "Maria das Neves", "op3" : "Policarpo Freitas"
+  },
+  {
+    "pergunta" : "Qual é a firma importadora de Coca Cola em São Tomé e Príncipe?", "answer" : "Saotobega", "op1" : "Intermar", "op2" : "Somex", "op3" : "Bom Preço"
+  },
+  {
+    "pergunta" : "Quem organizou o Gravana Soul Festival?", "answer" : "ON Time Entretainment", "op1" : "Organizer Eventos", "op2" : "CST", "op3" : "UNITEL"
+  },
+  {
+    "pergunta" : "Aonde nasceu o Dr. Ayres de Menezes?", "answer" : "Guadalupe", "op1" : "São Gabriel", "op2" : "Monte Café", "op3" : "Agostinho Neto"
+  },
+  {
+    "pergunta" : "Qual é a capital do distrito de Caué?", "answer" : "São João dos Angolares", "op1" : "Bom Bom", "op2" : "Sta Catarina", "op3" : "Almas"
+  },
+  {
+    "pergunta" : "Qual é a capital do distrito de Mé-Zochi?", "answer" : "Trindade", "op1" : "Uba Cabra", "op2" : "Batepá", "op3" : "Capela"
+  },
+  {
+    "pergunta" : "Qual é a capital do distrito de Lembá?", "answer" : "Neves", "op1" : "Ponta Figo", "op2" : "Fernão Dias", "op3" : "Riboque"
+  },
+  {
+    "pergunta" : "Qual o oceano que banha a vila de Morro Peixe?", "answer" : "Atlântico", "op1" : "Glaciar Ártico", "op2" : "Índico", "op3" : "Pacífico"
+  },
+  {
+    "pergunta" : "Como está dividido administrativamente STP?", "answer" : "6 Distritos e 1 Região Autónoma", "op1" : "7 Distritos", "op2" : "2 Ilhas", "op3" : "1 Estado"
+  },
+  {
+    "pergunta" : "Qual é a maior estrada de STP?", "answer" : "Nº 2", "op1" : "Nº 1", "op2" : "Nº 3", "op3" : "Nº 4"
+  },
+  {
+    "pergunta" : "Qual é a estrada nacional Nº 3?", "answer" : "Cidade Capital-Trindade", "op1" : "Bom Bom-Caixão Grande", "op2" : "Cidade Capital-Aeroporto", "op3" : "Cidade Capital-Neves"
+  },
+  {
+    "pergunta" : "Qual é a vila mais populosa de de STP?", "answer" : "Ribeira Afonso", "op1" : "Pantufo", "op2" : "Morro Peixe", "op3" : "Conde"
+  },
+  {
+    "pergunta" : "Qual é o maior rio do distrito de Lembá?", "answer" : "Rio Lembá", "op1" : "Água Gato", "op2" : "Contador", "op3" : "Água Grande"
+  },
+  {
+    "pergunta" : "Aonde Nasceu Dr. Manuel Pinto da Costa?", "answer" : "Vila do Conde", "op1" : "São Marçal", "op2" : "Ribeira Afonso", "op3" : "Santana"
+  },
+  {
+    "pergunta" : "Qual é a frequência da Rádio Nacional?", "answer" : "95.4", "op1" : "95.2", "op2" : "99.9", "op3" : "96.2"
+  },
+  {
+    "pergunta" : "Qual é a frequência da Rádio Jubilar?", "answer" : "91.9", "op1" : "104.4", "op2" : "93.3", "op3" : "97.9"
+  },
+  {
+    "pergunta" : "Em que ano foi enaugurado o estádio nacional 12 de Julho?", "answer" : "1950", "op1" : "1900", "op2" : "1978", "op3" : "2000"
+  },
+  {
+    "pergunta" : "Como se chama o estádio nacional de STP?", "answer" : "12 de Julho", "op1" : "6 de Setembro", "op2" : "Estádio Nacional", "op3" : "3 de Fevereiro"
+  },
+  {
+    "pergunta" : "Qual é a capacidade do estádio nacional 12 de Julho?", "answer" : "6500 Pessoas", "op1" : "5000 Pessoas", "op2" : "1500 Pessoas", "op3" : "500 Pessoas"
+  },
+  {
+    "pergunta" : "Qual é o tamanho do campo do estádio nacional 12 de Julho?", "answer" : "105 x 68 m", "op1" : "500 x 500 m", "op2" : "200 x 100 m", "op3" : " 120 x 70 m"
+  },
+  {
+    "pergunta" : "Em que mês se celebra a festa do padroeiro São Pedro?", "answer" : "Janeiro", "op1" : "Agosto", "op2" : "Fevereiro", "op3" : "Junho"
+  },
+  {
+    "pergunta" : "Quando foi assinado o acordo de Argel?", "answer" : "Novembro de 74", "op1" : "Novembro de 64", "op2" : "Maio de 68", "op3" : "Março de 90"
+  },
+  {
+    "pergunta" : "Aonde os portugueses desembarcaram quando chegaram em São Tomé?", "answer" : "Ana Ambó", "op1" : "Baia de Ana Chaves", "op2" : "Ilhéu das Rolas", "op3" : "Praia Jalé"
+  },
+  {
+    "pergunta" : "Quem ajudou a capturar o rei Amador?", "answer" : "Seu companheiro", "op1" : "Os fazendeiros", "op2" : "Os militares", "op3" : "O Rei"
+  },
+  {
+    "pergunta" : "Qual é o crioulo do distrito de Caué?", "answer" : "Anguené", "op1" : "Forro", "op2" : "Lunguié", "op3" : "Cabo-Verdiano"
+  },
+  {
+    "pergunta" : "Qual destas características pertence a Yon Gato?", "answer" : "Cegueira", "op1" : "Surdez", "op2" : "Pele Branca", "op3" : "Perna Cortada"
+  },
+  {
+    "pergunta" : "De que distrito são os irmãos Calema?", "answer" : "Caué", "op1" : "Água Grande", "op2" : "Lobata", "op3" : "Lembá"
+  },
+  {
+    "pergunta" : "Aonde começou a revolta dos angolares?", "answer" : "Trindade", "op1" : "Guadalupe", "op2" : "Batepá", "op3" : "Roça Agostinho Neto"
+  },
+  {
+    "pergunta" : "Como se chamava a ilha do Príncipe antes de ser rebatizada?", "answer" : "Santo Antão", "op1" : "Santo Amaral", "op2" : "Santo António", "op3" : "São Lorenço"
+  },
+  {
+    "pergunta" : "Qual destas profissões Guadalupe de Ceita nunca exerceu?", "answer" : "Cantor", "op1" : "Enfermeiro", "op2" : "Escritor", "op3" : "Político"
+  },
+  {
+    "pergunta" : "Em que ano foi constituída a FONG-STP?", "answer" : "2001", "op1" : "2002", "op2" : "2007", "op3" : "2008"
+  },
+  {
+    "pergunta" : "Aonde se encontra o memorial do Massacre de Batepá?", "answer" : "Fernão Dias", "op1" : "Monte Café", "op2" : "Museu Nacional", "op3" : "Ana Ambó"
+  },
+  {
+    "pergunta" : "O que é usado para fazer o azeite de palma?", "answer" : "Andí", "op1" : "Safú", "op2" : "Coco", "op3" : "Manteiga"
+  },
+  {
+    "pergunta" : "Em que ano a ilha do Príncipe foi aceite como região autónoma?", "answer" : "2010", "op1" : "2007", "op2" : "2003", "op3" : "1975"
+  },
+  {
+    "pergunta" : "Que Roça foi propriedade de Jerónimo José?", "answer" : "Roça Sundí", "op1" : "Roça Agostinho Neto", "op2" : "Roça de Monte Café", "op3" : "Roça Belo Monte"
+  },
+  {
+    "pergunta" : "Qual é o distrito com o maior número de fronteiras?", "answer" : "Mé-Zochi", "op1" : "Caué", "op2" : "Lembá", "op3" : "Água Grande"
+  },
+  {
+    "pergunta" : "Qual destes distritos não faz fronteira com o distrito de Cantagalo?", "answer" : "Água Grande", "op1" : "Mé-Zochi", "op2" : "Caué", "op3" : "Nenhuma das opções"
+  }
+]}

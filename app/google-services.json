@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765144138095",
+    "project_id": "kuma-kua-sa",
+    "storage_bucket": "kuma-kua-sa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765144138095:android:400a5206b039c7a95de89a",
+        "android_client_info": {
+          "package_name": "com.gdev.kumakuasa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765144138095-29bpo10168r51d6i05vpstslcti8qf4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6mjh-DNWLjvcuk9rVrqgqfY_8vFZgzTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765144138095-29bpo10168r51d6i05vpstslcti8qf4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

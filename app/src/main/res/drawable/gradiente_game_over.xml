@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:androis="http://schemas.android.com/aapt">
+    <gradient
+        android:endColor="#f9ea0509"
+        android:startColor="#9b0606"
+        android:angle="90"
+        />
+    <resources>
+        <androis:color name="colorPrimary">#e6ea06</androis:color>
+        <android:color name="colorPrimaryDark">#dde106</android:color>
+        <android:color name="colorAccent">#D81B60</android:color>
+
+
+
+    </resources>
+
+</shape>
