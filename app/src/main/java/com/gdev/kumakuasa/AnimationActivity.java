@@ -206,7 +206,7 @@ public class AnimationActivity extends AppCompatActivity {
 
     private void openDialog(final boolean begin) {
         SharedPreferences preference = getSharedPreferences("preferencia", Context.MODE_PRIVATE);
-        Boolean firstRun = preference.getBoolean("leitura",true);
+        Boolean firstRun = preference.getBoolean("firstRun",true);
 
         dialog.setContentView(R.layout.dialog);
         dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
@@ -237,16 +237,22 @@ public class AnimationActivity extends AppCompatActivity {
                     onBackPressed();
             }
         });
-        if((begin && firstRun) || (!begin && !firstRun)) {
 
+        if(begin == firstRun) {
             if (!firstRun) {
                 methods.criarConexao();
                 Curiosidade c = methods.getCuriosity();
                 title.setText("Curiosidade");
                 texto.setText(c.text);
+            } else {
+                SharedPreferences.Editor ed = preference.edit();
+                ed.putBoolean("firstRun", false);
+                ed.apply();
             }
+
             dialog.show();
         }
+
         else
             methods.goToModoNormal();
     }

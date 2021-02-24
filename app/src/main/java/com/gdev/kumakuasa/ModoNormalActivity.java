@@ -58,7 +58,7 @@ public class ModoNormalActivity extends AppCompatActivity {
     private void criarConexao(){
         try {
             methods.criarConexao();
-            Toast.makeText(this,"Conexao feita",Toast.LENGTH_LONG).show();
+            //Toast.makeText(this,"Conexao feita",Toast.LENGTH_LONG).show();
 
         }
         catch (SQLException ex){
